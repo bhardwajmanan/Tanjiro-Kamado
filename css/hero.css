@@ -43,7 +43,9 @@ main{
 
 
 main img{
-	max-width: 50%;
+	max-width: 100%;
+	border: 10px solid #E54D4D;
+	border-radius: 10px;
 }
 
 a{
@@ -68,3 +70,13 @@ p.caption{
 	font-style: italic;
 	margin-top: 0;
 }
+
+
+
+
+
+
+
+
+
+

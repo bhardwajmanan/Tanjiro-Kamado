@@ -29,24 +29,25 @@ h2{
 }
 
 
-header img{
-	border-radius: 170px;
+header img{1
+	border-radius: 70px;
 	width: 300px;
 	border: 10px solid #E54D4D;
 }
 
 main{
 	max-width: 800px;
-	margin: 0 auto;
 	padding: 20px;
+	margin: 0 auto;
 }
 
 
 main img{
-	max-width: 200%
+	max-width: 50%;
 	border: 10px solid #E54D4D;
 	border-radius: 10px;
 }
+
 a{
 	color: indianred;
 }
@@ -69,13 +70,3 @@ p.caption{
 	font-style: italic;
 	margin-top: 0;
 }
-
-
-
-
-
-
-
-
-
-

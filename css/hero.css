@@ -29,18 +29,24 @@ h2{
 }
 
 
-header img{1
-	border-radius: 70px;
+header img{
+	border-radius: 170px;
 	width: 300px;
 	border: 10px solid #E54D4D;
 }
 
 main{
 	max-width: 800px;
-	padding: 20px;
 	margin: 0 auto;
+	padding: 20px;
 }
 
+
+main img{
+	max-width: 100%;
+	border: 10px solid #E54D4D;
+	border-radius: 10px;
+}
 a{
 	color: indianred;
 }

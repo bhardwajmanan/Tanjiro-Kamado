@@ -43,7 +43,8 @@ main{
 
 
 main img{
-	max-width: 100%;
+	width: 960px;
+	height: 540px;
 	border: 10px solid #E54D4D;
 	border-radius: 10px;
 }
